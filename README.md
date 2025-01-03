@@ -7,7 +7,7 @@ A React-based platform for users to share their travel plans and connect with ot
 ## Features
 - **User-friendly Interface**: Developed using React for a seamless user experience.
 - **Filtering**: Enables users to search for journeys by location and date.
-- **Secure Communication**: Integrated with Nodemailer for email notifications.
+- **Secure Communication**: Integrated with Nodemailer for email verification.
 - **Scalable Backend**: Built with Node.js, Express.js, and MongoDB.
 
 ---
