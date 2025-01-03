@@ -1,4 +1,4 @@
-# Ride-Sharing Platform
+# Ride-Connect Platform
 
 A React-based platform for users to share their travel plans and connect with others on similar journeys. The application allows users to search for travel plans by location and journey date, making it easier to coordinate shared rides.
 
